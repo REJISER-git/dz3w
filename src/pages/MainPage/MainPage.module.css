@@ -1,0 +1,13 @@
+.mainPage {
+    background: url('../../assets/tishita-park.jpg') no-repeat center center/cover;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    overflow: hidden; /* Убираем скролл */
+}
